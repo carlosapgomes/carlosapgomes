@@ -6,6 +6,8 @@ My profiles on:
 
 [CodersRank](https://profile.codersrank.io/user/carlosapgomes)
 
+[Codetrace](https://codetrace.com/users/carlosapgomes)
+
 [Wakatime](https://wakatime.com/@carlosapgomes)
 
 <!--
