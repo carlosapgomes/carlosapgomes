@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My profiles on: 
+
+[Sourcerer](https://sourcerer.io/carlosapgomes)
+
+[CodersRank](https://profile.codersrank.io/user/carlosapgomes)
+
+[Wakatime](https://wakatime.com/@carlosapgomes)
+
 <!--
 **carlosapgomes/carlosapgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![wakatime chart](https://wakatime.com/share/@carlosapgomes/79e30f10-7710-4f36-be05-07a28c536e40.svg)
