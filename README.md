@@ -2,8 +2,6 @@
 
 My profiles on: 
 
-[Sourcerer](https://sourcerer.io/carlosapgomes)
-
 [CodersRank](https://profile.codersrank.io/user/carlosapgomes)
 
 [Codetrace](https://codetrace.com/users/carlosapgomes)
